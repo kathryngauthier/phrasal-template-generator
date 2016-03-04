@@ -21,7 +21,7 @@ story = prompt('Which story would you like?\n a) Snacking\n b) Escaping\n c) Win
   story = prompt('Please enter a value of a, b, or c!\n\nWhich story would you like?\n a) Snacking\n b) Escaping\n c) Winning\n\n Enter the letter below:');
 	}
 	if (story == 'a') {
-  document.write('After snacking on' + adjective + 'treats,the' + colour + 'bellied' + creature +' '+ verbed + 'for hours.');
+  document.write('After snacking on ' + adjective + 'treats,the ' + colour + 'bellied ' + creature + ' ' + verbed + ' for hours.');
 }
 	if (story == 'b') {
   document.write('Ameilia' + verbed + 'through the' + adjective + ' ' + colour + 'nebula escaping the space' + creature + '.');
